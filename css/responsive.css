@@ -114,9 +114,6 @@
     .global {
         padding-bottom: 150px;
     }
-    body {
-        overflow-x: scroll;
-    }
     .global-photo a {
         top: 100%;
     }
