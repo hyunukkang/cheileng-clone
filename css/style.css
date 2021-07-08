@@ -203,6 +203,9 @@ input[id='toggle']:checked ~ .all-menu:after {
     font-size: 13px;
     margin: 0 8px 10px 0;
 }
+.move-btn-item:nth-of-type(3) {
+    display: block;
+}
 .move-btn-item:hover {
     background: var(--white-color);
     color: #000;
